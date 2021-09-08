@@ -7,7 +7,7 @@
 в секциях places и photo-grid использовались grid сетки.
 
 Ссылка на Git hub:
-https://github.com/Vbutike/russian-travel
+https://vbutike.github.io/yet-another-project/
 
 
 **Figma**
